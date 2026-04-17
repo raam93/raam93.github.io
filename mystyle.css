@@ -53,8 +53,11 @@ a:hover {
         /* width: 50%;
             margin-left: 50%;
             min-height:100%; */
-        position: fixed;
-        /*width: 33%;*/
+        /*position: fixed;*/
+        position: sticky;
+        top: 80px;
+        width: 33%;
+        align-self: flex-start;
         overflow-wrap: break-word;
         word-wrap: break-word;
     }
