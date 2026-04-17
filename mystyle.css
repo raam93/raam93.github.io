@@ -54,6 +54,9 @@ a:hover {
             margin-left: 50%;
             min-height:100%; */
         position: fixed;
+        width: 28%;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
     }
 }
 
